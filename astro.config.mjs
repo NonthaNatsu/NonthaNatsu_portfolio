@@ -21,7 +21,7 @@ import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 // https://astro.build/config
 export default defineConfig({
 	site: "https://NonthaNatsu.github.io",
-	base: "",
+	base: "/NonthNonthaNatsu_portfolio",
 	trailingSlash: "always",
 	integrations: [
 		tailwind({
