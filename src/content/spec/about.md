@@ -1,7 +1,7 @@
 # About Myself
 :::note
-You can look my CV over there
-[Download My CV](https://github.com/saicaca/fuwari).
+You can download my resume
+[here](https://github.com/NonthaNatsu/NonthaNatsu_portfolio).
 :::
 Hi! i'm **Nonthawat Suwannachairop** (also known as NonthaNatsu)
 
