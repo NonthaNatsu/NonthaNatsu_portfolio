@@ -6,6 +6,8 @@ import { PAGE_SIZE } from "../constants/constants";
 import MainGridLayout from "../layouts/MainGridLayout.astro";
 import { getSortedPosts } from "../utils/content-utils";
 
+import Analytics from "@vercel/analytics/astro";
+
 export const getStaticPaths = (async ({ paginate }) => {
 	const allBlogPosts = await getSortedPosts();
 	return paginate(allBlogPosts, { pageSize: PAGE_SIZE });
@@ -20,4 +22,5 @@ const len = page.data.length;
 <MainGridLayout>
     <PostPage page={page}></PostPage>
     <Pagination class="mx-auto onload-animation" page={page} style={`animation-delay: calc(var(--content-delay) + ${(len)*50}ms)`}></Pagination>
+    <Analytics />
 </MainGridLayout>
