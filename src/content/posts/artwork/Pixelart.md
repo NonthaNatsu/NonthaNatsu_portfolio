@@ -3,49 +3,27 @@ title: Pixel art & Pixel Animation
 published: 2025-05-24
 description: "How to use this blog template."
 image: "./Mapeed_eatingProDR2.png"
-tags: ["Art", "GameDev"]
-category: Art
+tags: ["Art", "Animation", "GameDev"]
+category: Animation
 draft: false
 ---
+## Animation
+:::tip
+You can see more of my work at
+- [Pixiv](https://www.pixiv.net/en/users/84081089)
+- [X (twitter)](https://x.com/NonthaNatsu)
+:::
+## Seaside Road  (Yuru CampΔ Fan art)
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Seaside Road (Yuru CampΔ Fan art)<br><br>Tools : Godot Engine + Aseprite <a href="https://t.co/xKa94CyH6p">pic.twitter.com/xKa94CyH6p</a></p>&mdash; NonthNatsu (@NonthaNatsu) <a href="https://twitter.com/NonthaNatsu/status/1808784060472254674?ref_src=twsrc%5Etfw">July 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> Cover image source: [Source](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/208fc754-890d-4adb-9753-2c963332675d/width=2048/01651-1456859105-(colour_1.5),girl,_Blue,yellow,green,cyan,purple,red,pink,_best,8k,UHD,masterpiece,male%20focus,%201boy,gloves,%20ponytail,%20long%20hair,.jpeg)
+:::note
+This Animation was featured in an article on "pixivision", a creative media site operated by pixiv.
+- [( pixivision.net ) ピクセルが動き出す！ ドット絵のうごイラ特集](https://www.pixivision.net/ja/a/10544)
+:::
 
-This blog template is built with [Astro](https://astro.build/). For the things that are not mentioned in this guide, you may find the answers in the [Astro Docs](https://docs.astro.build/).
+## Return home in the evening
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Return home in the evening <a href="https://twitter.com/hashtag/pixelartwork?src=hash&amp;ref_src=twsrc%5Etfw">#pixelartwork</a> <a href="https://twitter.com/hashtag/pixelart?src=hash&amp;ref_src=twsrc%5Etfw">#pixelart</a> <a href="https://t.co/jrt7oJwxr5">pic.twitter.com/jrt7oJwxr5</a></p>&mdash; NonthNatsu (@NonthaNatsu) <a href="https://twitter.com/NonthaNatsu/status/1901140749317546141?ref_src=twsrc%5Etfw">March 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Front-matter of Posts
+## Mapeed
 
-```yaml
----
-title: My First Blog Post
-published: 2023-09-09
-description: This is the first post of my new Astro blog.
-image: ./cover.jpg
-tags: [Foo, Bar]
-category: Front-end
-draft: false
----
-```
-
-| Attribute     | Description                                                                                                                                                                                                 |
-|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `title`       | The title of the post.                                                                                                                                                                                      |
-| `published`   | The date the post was published.                                                                                                                                                                            |
-| `description` | A short description of the post. Displayed on index page.                                                                                                                                                   |
-| `image`       | The cover image path of the post.<br/>1. Start with `http://` or `https://`: Use web image<br/>2. Start with `/`: For image in `public` dir<br/>3. With none of the prefixes: Relative to the markdown file |
-| `tags`        | The tags of the post.                                                                                                                                                                                       |
-| `category`    | The category of the post.                                                                                                                                                                                   |
-| `draft`        | If this post is still a draft, which won't be displayed.                                                                                                                                                    |
-
-## Where to Place the Post Files
-
-
-
-Your post files should be placed in `src/content/posts/` directory. You can also create sub-directories to better organize your posts and assets.
-
-```
-src/content/posts/
-├── post-1.md
-└── post-2/
-    ├── cover.png
-    └── index.md
-```
+![Mapeed](MapeedOverdriveChuby_animate_SNS_REV5Gr.gif)

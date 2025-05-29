@@ -44,8 +44,8 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Archive,
 		LinkPreset.About,
 		{
-			name: "Github",
-			url: "https://github.com/NonthNatsu", // Internal links should not include the base path, as it is automatically added
+			name: "Resume",
+			url: "https://www.canva.com/design/DAGoX6op0M8/zV9DqUg9AaCJ01ZjSvZUcw/edit?utm_content=DAGoX6op0M8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 	],
