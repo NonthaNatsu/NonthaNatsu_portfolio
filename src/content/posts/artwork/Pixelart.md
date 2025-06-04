@@ -24,7 +24,7 @@ This Animation was featured in an article on "pixivision", a creative media site
 ## Return home in the evening
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Return home in the evening <a href="https://twitter.com/hashtag/pixelartwork?src=hash&amp;ref_src=twsrc%5Etfw">#pixelartwork</a> <a href="https://twitter.com/hashtag/pixelart?src=hash&amp;ref_src=twsrc%5Etfw">#pixelart</a> <a href="https://t.co/jrt7oJwxr5">pic.twitter.com/jrt7oJwxr5</a></p>&mdash; NonthNatsu (@NonthaNatsu) <a href="https://twitter.com/NonthaNatsu/status/1901140749317546141?ref_src=twsrc%5Etfw">March 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Mapeed
+## Mapeed (My original character)
 
 ![Mapeed](MapeedOverdriveChuby_animate_SNS_REV5Gr.gif)
 
