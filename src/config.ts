@@ -66,7 +66,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/NonthNatsu",
+			url: "https://github.com/NonthaNatsu",
 		},
 		{
 			name: "Pixiv",
