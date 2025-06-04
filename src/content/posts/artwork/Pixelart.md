@@ -2,7 +2,7 @@
 title: Pixel art & Pixel Animation
 published: 2025-05-24
 description: "How to use this blog template."
-image: "./Mapeed_eatingProDR2.png"
+image: "./MWB_NOC_EXPORT_WC_720P_Crop.gif"
 tags: ["Art", "Animation", "GameDev"]
 category: Animation
 draft: false
@@ -27,3 +27,5 @@ This Animation was featured in an article on "pixivision", a creative media site
 ## Mapeed
 
 ![Mapeed](MapeedOverdriveChuby_animate_SNS_REV5Gr.gif)
+
+![alt text](MWB_NOC_EXPORT_WC_720P.gif)
